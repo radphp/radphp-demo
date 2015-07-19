@@ -1,5 +1,5 @@
 {
-    "name": "radphp/radphp-app",
+    "name": "radphp/radphp-demo",
     "description": "RadPHP application skeleton",
     "keywords": ["RadPHP", "RESTful", "app"],
     "type": "project",
