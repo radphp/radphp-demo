@@ -1,5 +1,5 @@
-# RadPHP application skeleton
-A skeleton for creating applications based on [RadPHP framework](https://github.com/radphp/radphp).
+# RadPHP demo
+A sample project for creating applications based on [RadPHP framework](https://github.com/radphp/radphp).
 
 
 ## Installation
