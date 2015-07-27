@@ -27,5 +27,6 @@ return [
         'Twig' => [],
         'Pages' => [],
         'CakeOrm' => [],
+        'Admin' => [],
     ]
 ];
