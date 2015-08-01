@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    {{ getCss() }}
+
+    <base href="{% block base %}{% endblock %}">
+
+    <title>{% block title %}{% endblock %}</title>
+</head>
+
+{% block content %}{% endblock %}
+
+<footer class="text-center">
+    <p>Proudly developed by <a href="https://github.com/radphp/radphp">RadPHP</a> framework.</p>
+</footer>
+
+{{ getJs() }}
+
+</body>
+</html>
