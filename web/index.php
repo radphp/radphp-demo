@@ -1,6 +1,5 @@
 <?php
 
-use Rad\Application;
 use Rad\Network\Http\Request;
 use Rad\Network\Http\Response;
 
