@@ -14,6 +14,10 @@ do
 	        continue
 	    fi
 
+		if [ ! -d "$dir" ]; then
+	        continue
+	    fi
+
 		cd $dir
 
 		# check if it is a git repo/submodule or not!
