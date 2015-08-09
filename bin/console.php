@@ -3,4 +3,4 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-Application::getInstance()->runCli();
+Application::getInstance()->handleCli($argv);

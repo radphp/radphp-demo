@@ -2,6 +2,8 @@
 
 namespace App\Responder;
 
+use Rad\Network\Http\Response;
+
 /**
  * Index Responder
  *
@@ -21,6 +23,6 @@ class IndexResponder extends AppResponder
             $content = $twig->render('@App/index.twig', ['examples' => $examples]);
         }
 
-        $this->response->setContent($content);
+        return new Response($content);
     }
 }
