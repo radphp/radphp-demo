@@ -24,9 +24,10 @@ return [
     ],
     'bundles' => [
         'App' => [],
+        'Migrations' => [],
+        'CakeOrm' => [],
         'Twig' => [],
         'Pages' => [],
-        'CakeOrm' => [],
-        'Admin' => [],
+        'Admin' => []
     ]
 ];
