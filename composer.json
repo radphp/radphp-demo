@@ -22,7 +22,8 @@
         "radphp/radphp": "dev-master",
         "radphp/twig-bundle": "dev-master",
         "radphp/pages-bundle": "dev-master",
-        "radphp/admin-bundle": "dev-master"
+        "radphp/admin-bundle": "dev-master",
+        "radphp/migrations-bundle": "dev-master"
     },
     "autoload": {
         "psr-4": {
