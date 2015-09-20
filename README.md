@@ -1,4 +1,6 @@
 # RadPHP demo
+[![RadPHP Demo license](https://img.shields.io/github/license/radphp/radphp-demo.svg)](https://github.com/radphp/radphp-demo)
+
 A sample project for creating applications based on [RadPHP framework](https://github.com/radphp/radphp).
 
 
