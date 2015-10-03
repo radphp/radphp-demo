@@ -1,7 +1,7 @@
 {
     "name": "radphp/radphp-demo",
-    "description": "RadPHP application skeleton",
-    "keywords": ["RadPHP", "RESTful", "app"],
+    "description": "RadPHP demo application",
+    "keywords": ["RadPHP", "RESTful", "demo"],
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
